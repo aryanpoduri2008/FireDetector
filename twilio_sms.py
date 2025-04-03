@@ -2,8 +2,8 @@ from twilio.rest import Client
 
 account_sid = ''
 auth_token = ''
-twilio_phone_number = '8338979791'
-your_phone_number = '6506276216'  # Your personal phone number
+twilio_phone_number = ''
+your_phone_number = ''  # Your personal phone number
 
 client = Client(account_sid, auth_token)
 
