@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-account_sid = 'AC9b6db539daaf8adce9a1b248b8f6b97e'
-auth_token = '7282b9a408a17a148f4b3a3b2712a695'
+account_sid = ''
+auth_token = ''
 twilio_phone_number = '8338979791'
 your_phone_number = '6506276216'  # Your personal phone number
 
